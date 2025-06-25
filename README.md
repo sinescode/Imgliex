@@ -2,6 +2,11 @@
 
 A blazing-fast C++ application for extracting manga image links from chapter pages with multi-threading support.
 
+```bash
+# first use this repository to collect all chapter link 
+https://github.com/sinescode/linkex
+```
+
 ## Features
 
 - **High Performance**: Optimized C++ implementation with aggressive compiler optimizations
@@ -208,3 +213,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Multi-threading support
 - Smart caching system
 - Cross-platform compatibility
+
