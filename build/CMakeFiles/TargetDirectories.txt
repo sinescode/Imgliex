@@ -1,0 +1,9 @@
+/home/kali/gitaction/Imgliex/build/CMakeFiles/imgliex.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/package.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/package_source.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/edit_cache.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/rebuild_cache.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/list_install_components.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/install.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/install/local.dir
+/home/kali/gitaction/Imgliex/build/CMakeFiles/install/strip.dir

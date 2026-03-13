@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -march=native -flto -Wl,--dependency-file=CMakeFiles/imgliex.dir/link.d CMakeFiles/imgliex.dir/main.cpp.o -o bin/imgliex  /usr/lib/aarch64-linux-gnu/libcurl.so
